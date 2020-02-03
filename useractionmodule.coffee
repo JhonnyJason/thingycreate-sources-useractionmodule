@@ -9,7 +9,6 @@ userConfig = null
 
 #region userActions
 allUserActions =
-
     editDeveloperName:
         userChoiceLabel: "edit developerName"
         execute: ->
